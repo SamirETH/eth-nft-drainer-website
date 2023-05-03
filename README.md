@@ -1,4 +1,2 @@
 
-eth-nft-drainer-website for sales 1 eth 
-
-![Alt text](/posts/path/to/img.jpg "Optional title")
+![preview](https://github.com/NYHRP/eth-nft-drainer-website/blob/main/Mafia-Drainers-v1-0-thread-2.png?raw=true)
