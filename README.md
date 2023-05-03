@@ -1,4 +1,4 @@
 
 eth-nft-drainer-website for sales 1 eth 
 
-![alt text](https://cdn.discordapp.com/attachments/934991134399279207/1103139041270050886/Mafia-Drainers-v1-0-thread-2.gif)
+![Alt text](/posts/path/to/img.jpg "Optional title")
