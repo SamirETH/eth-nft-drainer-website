@@ -15,7 +15,6 @@
 
 - Telegram: [@samirdatonETH](https://t.me/samirdatonETH)
 - Shop: https://samireth.mysellix.io/
-- Group: https://t.me/samirdatonETH
 - Preview: https://mutant-mafia.vercel.app/
 
 
